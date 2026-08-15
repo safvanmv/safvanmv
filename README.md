@@ -56,7 +56,7 @@ I'm a backend developer with 2.5+ years of experience building scalable Django R
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-safvan-mv-555a87262/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mvsafvan10@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=safvanmv&show_icons=true&theme=default" alt="GitHub stats" width="48%" />
