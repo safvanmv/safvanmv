@@ -2,7 +2,7 @@
 
 <h3 align="left">Python / Django Developer</h3>
 
-I'm a backend developer with 2.5+ years of experience building scalable Django REST APIs, handling production AWS migrations, and setting up async task pipelines with Celery and Redis. I also manage end-to-end project delivery — from client communication to deployment — as a sole developer.
+I'm a backend developer with nearly 3 years of experience building scalable Django REST APIs, handling production AWS migrations, and setting up async task pipelines with Celery and Redis. I also manage end-to-end project delivery — from client communication to deployment — as a sole developer.
 
 - 🔭 Currently building **[Syncra API](https://github.com/safvanmv/syncra-api)** — a multi-tenant SaaS task management backend (Django + DRF + JWT + role-based permissions)
 - 💼 Software Developer & Technical Project Manager at **Kiwimesh Technologies**
